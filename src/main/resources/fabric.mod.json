@@ -18,7 +18,9 @@
 		"main": [
 			"com.example.autosell.AutoSell"
 		],
-		"client": [
+		"client": [,
+			"com.example.autosell.AutoSellClient",
+    "com.example.autosell.AutoSellController"
 			"com.example.autosell.client.AutoSellClient"
 		]
 	},
